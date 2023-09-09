@@ -7606,7 +7606,7 @@ addcmd('clientantikick',{'antikick'},function(args, speaker)
 		return oldhmmnc(self, ...)
 	end)
 
-	notify('Client Antikick','Client anti kick is now active (only effective on localscript kick)')
+	notify('Client Antikick','Client anti kick is now active (only effective on localscript kick... nooch!)')
 end)
 
 allow_rj = true
